@@ -19,15 +19,13 @@ Tools and Technologies: HTML, CSS (Grid, Flexbox, Media Queries), JavaScript, PH
 <h2>III. Feature Implementation</h2>
  1. Selected Features
  <br></br>
-    <p>  - <b>Feature 1:</b> Use arrays, objects, sets, or maps to store and retrieve information displayed in the app (pricing structure).</p>
-    <p>  - <b>Feature 2:</b> Visualize data in a user-friendly way (products).</p>
-    <p>  - <b>Feature 3:</b> Retrieve data from a third-party API and display it in a domain search.</p>
-    <p>  - <b>Feature 4:</b> Filter for filtering products using modern UI features.</p>
-    <p>  - <b>Feature 5:</b> Using javascript, dynamically add the footer, and header to all pages of the website.</p>
+    <p>  - <b>Feature 1:</b>Retrieve specific products from Stripe, using a third-party API, and display it on the website.</p>
+    <p>  - <b>Feature 2:</b>Visualize data in a user-friendly way (products).</p>
+    <p>  - <b>Feature 3:</b>Use arrays, objects, sets, or maps to store and retrieve information displayed in the app (pricing structure). </p>
+    <p>  - <b>Feature 4:</b> Develop your project using React Javascript Frameworks.</p>
 
 <h2>Integration of Third-Party API</h2>
-<p> 1. Namesilo API: Integrate namesilo API to fetch and display current domains available for purchase.</p>
-<p> 2. Stripe API: Integrate stripe API to purchase products and sign up for subscriptions.</p>
+<p> 1. Stripe API: Integrate stripe API to view products and services.</p>
 
 <h2>IV. Data Handling and Analysis</h2>
 1. Data Storage, Retrieval, and Visualization 
@@ -36,9 +34,7 @@ Tools and Technologies: HTML, CSS (Grid, Flexbox, Media Queries), JavaScript, PH
     <p>  - Display the pricing using styling according to the theme of the site.</p>
 
 <h2>V. Advanced Features</h2>
- <p>  1. Interactive UI Features</p>
-    <p>    - Implement features like data sorting, autocomplete for location input, and interactive date-picker for date selection.</p>
- <p>  2. Data Persistence</p>
+ <p>  1. Data Persistence</p>
     <p>    - Persist data to an external API and make it accessible within the app, even after a reload/refresh.</p>
 
 <h2>VI. Review Process</h2>
@@ -63,4 +59,4 @@ Tools and Technologies: HTML, CSS (Grid, Flexbox, Media Queries), JavaScript, PH
 <p>  - Ensure the project is fully functional and well-documented.</p>
 <p>  - Prepare the project for final presentation or submission to evaluators.</p>
 
-This outline provides a structured approach to developing a responsive web application focused on weather patterns and CO2 emissions. It includes steps for responsive design, feature implementation, data handling, advanced features, project development, review, and documentation to ensure the project meets all requirements and is attractive to potential employers or evaluators.
+This outline provides a structured approach to developing a responsive hosting/developer website. It includes steps for responsive design, feature implementation, data handling, advanced features, project development, review, and documentation to ensure the project meets all requirements and is attractive to potential employers or evaluators.
